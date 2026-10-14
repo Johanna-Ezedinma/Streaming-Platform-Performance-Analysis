@@ -1,10 +1,8 @@
-# Music Streaming Platform Performance Analytics 
+# Streaming Platform Performance Analytics 
 **Date:** May 2026  
 
-**Tools:** Power BI · DAX · Power Query     
-**Period:** 2021 to 2024 · 10 markets · 961 users · 224,078 sessions     
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma/code-blue-emergency-operations-patient-flow-analytics-1cf7176a1ec7) 
+ 
+**Period:** 2021 to 2024 · 10 markets · 961 users · 224,078 sessions      
 
 > A four-year investigation into whether the platform's growth is sustainable, what drives subscriber conversion, where revenue is leaking, and whether the data used to make business decisions can be trusted.
 
